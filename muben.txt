@@ -1,0 +1,7 @@
+admin
+administrator
+root
+password
+passwd
+admin123
+pwd
